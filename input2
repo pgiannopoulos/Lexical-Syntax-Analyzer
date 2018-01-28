@@ -1,0 +1,23 @@
+bool test_var;
+int*** hello;
+char* hi[1024];
+double test1,test2,test3;
+
+void hello_guys (){
+	heyy: for (how; true; NULL) ;
+}
+/* ena
+	sxolio
+	pollwn
+	grammwn
+*/
+
+//allo ena sxolio mias grammis
+
+void testini (){
+heyy %= 5;
+hello *= "hi";
+
+}
+
+
